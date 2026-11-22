@@ -67,7 +67,7 @@ src/main/java/br/com/dio/order_management_api/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/order-management-api.git
+git clone https://github.com/leon-Sab/order-management-api.git
 
 # Acesse o diretório
 cd order-management-api
@@ -183,7 +183,7 @@ Senha:    (vazio)
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **[Leonardo Sabino Oliveira De Araujo]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardo-sabino-43551716a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/leon-Sab)
